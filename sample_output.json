@@ -1,0 +1,7 @@
+{
+    "patient_name": "John Doe",
+    "dob": "1990-01-01",
+    "gender": "Male",
+    "phone": "123-456-7890",
+    "medical_history": ["Diabetes", "Hypertension"]
+}
